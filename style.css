@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: rgb(158, 158, 209);
+    height: 90vh;
+    color: darkbold;
+ size: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish " ,sans-serif;
+}
